@@ -18,7 +18,7 @@ import (
 const proxyAddr = ""
 const ja3 = ""
 const ja3Ua = ""
-const geminiBaseUrl = "https://generativelanguage.googleapis.com"
+const geminiBaseUrl = "https://bright-donkey-63.deno.dev"
 
 var geminiKeys = []string{}
 
